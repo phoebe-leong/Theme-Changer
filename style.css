@@ -1,0 +1,12 @@
+html {
+	cursor: pointer;
+	font-family: sans-serif;
+
+	user-select: none;
+}
+
+#themeTitle {
+	float: left;
+	margin-left: 20px;
+	visibility: hidden;
+}
